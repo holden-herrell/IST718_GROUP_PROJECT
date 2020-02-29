@@ -1,34 +1,545 @@
-Tm,Total,Home,Away,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16,Week 17
-Arizona Cardinals,1000509,490586,509923,60687,70126\*,60104,60500,46012\*,60140,73577\*,73064\*,60986,40038\*,69419\*,Bye,60944,63880,63345,69022\*,68665\*
-Atlanta Falcons,1099463,572811,526652,66714\*,72443,60295\*,72108,71787\*,60140\*,71856,71483,Bye,73283\*,73106\*,71463,71993,70592,70910\*,70873,50417\*
-Baltimore Ravens,1091363,565020,526343,65012\*,70126,73390\*,70686,64037\*,70051,69012\*,Bye,71157,45918\*,70731,72409\*,71029,69134\*,70545,67431\*,70695
-Buffalo Bills,1123350,550713,572637,78523\*,74569\*,69448,70317,66910\*,Bye,68340,69435,67685,67431\*,64187\*,67338,90445\*,69134,64694\*,65878\*,69016
-Carolina Panthers,1122333,577765,544568,72005,71101,60104\*,71699\*,72762,60087\*,Bye,69083\*,72540,78090\*,73106,73068\*,71504,70592\*,72544,61845\*,72203
-Chicago Bears,1051152,495332,555820,62435,76885\*,67327\*,62131,60463\*,Bye,62306,61632,69796\*,61758,70758\*,61581,65412\*,61276,78266\*,62213,66913\*
-Cincinnati Bengals,907640,377432,530208,68710\*,50666,69448\*,57959\*,46012,70051\*,42784,83720\*,Bye,45918,51921\*,47423,39804,67431\*,57066,60968\*,47759
-Cleveland Browns,1075124,539448,535676,67431,78523\*,67431,70686\*,70585\*,67431,Bye,65878\*,76743\*,67431,67431,67431,62157\*,67431,63345\*,67431,47759\*
-Dallas Cowboys,1289027,727432,561595,90353,75128\*,90127,73086\*,93024,78523\*,91213,Bye,76107\*,91188,61801\*,65878\*,90445,61276\*,90436,69796\*,90646
-Denver Broncos,1104191,607497,496694,52359\*,76885,78078\*,76219,25357\*,75815,76748,61653\*,76743,Bye,66883\*,67338\*,74638,71769\*,73257\*,74115,76334
-Detroit Lions,1011888,490737,521151,60687\*,60158,69796\*,65188,Bye,76947\*,60314,58509,53318\*,61758\*,61801,57754\*,65412,66776\*,56515,74115\*,62840
-Green Bay Packers,1154661,622762,531899,62435\*,78416,78078,77509,93024\*,76947,78160,73558\*,25435\*,78090,Bye,71500\*,75950\*,77296,78266,67157\*,62840\*
-Houston Texans,1075836,574345,501491,73039\*,71651,25349\*,71699,71787,73323\*,59977\*,71893,84771\*,Bye,70731\*,71727,72025,71769,65265\*,49036\*,71794
-Indianapolis Colts,965049,488886,476163,25363\*,62849\*,60295,62259,73352\*,Bye,59977,61653,61115\*,60510,61986,71727\*,60361,50232\*,73053\*,61845,58472\*
-Jacksonville Jaguars,1014675,504686,509989,60157,71651\*,58613,76219\*,72762\*,64341,42784\*,57833,84771,Bye,61986\*,60926\*,62633,57866,52788\*,70873\*,58472
-Kansas City Chiefs,1115771,587723,528048,60157\*,52748\*,73390,65188\*,73352,73323,76748\*,73558,73615,68864\*,76252\*,Bye,73548,65878\*,73257,62213\*,73680
-Los Angeles Chargers,760644,254007,506637,25363,60158\*,25349,64278\*,25357,25425,62431\*,61632\*,25435,51954\*,76252,Bye,74638\*,57866\*,25446,25380,73680\*
-Los Angeles Rams,1147715,582325,565390,72005\*,71460,67431\*,68117,68988\*,75695,71856\*,83720,Bye,63627\*,70758,72409,60944\*,71501,90436\*,70103\*,68665
-Miami Dolphins,1067487,504540,562947,65012,65513,90127\*,64278,Bye,59808,68340\*,59244\*,59229,60510\*,64187,67431\*,65545,78523\*,72894\*,60968,65878\*
-Minnesota Vikings,1070025,534794,535231,66714,78416\*,66738,62131\*,75041\*,66837,60314\*,66776,73615\*,91188\*,66883,Bye,69080\*,66776,25446\*,67157,66913
-New England Patriots,1087904,527024,560880,65878,65513\*,65878,70317\*,76483\*,65878,78523\*,65878,71157\*,Bye,69796\*,65878,72025\*,65878,57066\*,65878,65878
-New Orleans Saints,1117057,584660,532397,73039,71460\*,69005\*,73086,73029,64341\*,62306\*,73064,Bye,73283,54333\*,73068,71993\*,73038,73053,66756\*,72203\*
-New York Giants,1143109,597316,545793,90353\*,74569,55070\*,74149,75041,65878\*,73577,58509\*,76107,78523\*,Bye,61581\*,75950,69796\*,72894,66083\*,75029
-New York Jets,1116711,628184,488527,78523,78523,65878\*,Bye,69796\*,78523,78523,57833\*,59229\*,78523,56426\*,78523,39804\*,78523,70545\*,78523,69016\*
-Oakland Raiders,961146,428311,532835,52359,52748,66738\*,62259\*,60463,Bye,78160\*,71893\*,53318,51954,51921,78523\*,73548\*,52760,52788,25380\*,76334\*
-Philadelphia Eagles,1139525,558268,581257,69696,72443\*,69796,77509\*,69796,66837\*,91213\*,69435\*,69796,Bye,69796,69796,65545\*,69796,63246\*,69796,75029\*
-Pittsburgh Steelers,986590,497896,488694,65878\*,65063,69439\*,57959,64037,25425\*,Bye,59244,61115,63627,67431\*,47423\*,62157,63880\*,64694,78523\*,70695\*
-San Francisco 49ers,1080454,562443,518011,55976\*,50666\*,69439,Bye,70585,75695\*,61459\*,69083,60986\*,71404,69419,71500,71029\*,73038\*,70910,70103,69162\*
-Seattle Seahawks,1101649,551927,549722,68710,65063\*,69005,60500\*,68988,67431\*,69012,71483\*,68948,71404\*,Bye,69796\*,69080,71501\*,72544\*,69022,69162
-Tampa Bay Buccaneers,949068,415189,533879,55976,71101\*,55070,68117\*,73029\*,60087,Bye,62073\*,68948\*,40038,54333,71463\*,62633\*,50232,56515\*,49036,50417
-Tennessee Titans,1047496,516074,531422,67431\*,62849,58613\*,72108\*,66910,75815\*,62431,62073,72540\*,68864,Bye,60926,60361\*,52760\*,65265,66756,71794\*
-Washington Redskins,1101466,523906,577560,69696\*,75128,67327,74149\*,76483,59808\*,61459,66776\*,67685\*,Bye,56426,57754,71504\*,77296\*,63246,66083,90646\*
-,17040039,,,1034338,1097299,1046088,1026205,1007626,920301,956700,1005834,921445,852588,915030,936817,1087068,1067748,1050270,1025179,1089503
+Week,Team,HomeAttend,AwayAttend
+1,Arizona Cardinals,60687,
+1,Atlanta Falcons,,66714
+1,Baltimore Ravens,,65012
+1,Buffalo Bills,,78523
+1,Carolina Panthers,72005,
+1,Chicago Bears,62435,
+1,Cincinnati Bengals,,68710
+1,Cleveland Browns,67431,
+1,Dallas Cowboys,90353,
+1,Denver Broncos,,52359
+1,Detroit Lions,,60687
+1,Green Bay Packers,,62435
+1,Houston Texans,,73039
+1,Indianapolis Colts,,25363
+1,Jacksonville Jaguars,60157,
+1,Kansas City Chiefs,,60157
+1,Los Angeles Chargers,25363,
+1,Los Angeles Rams,,72005
+1,Miami Dolphins,65012,
+1,Minnesota Vikings,66714,
+1,New England Patriots,65878,
+1,New Orleans Saints,73039,
+1,New York Giants,,90353
+1,New York Jets,78523,
+1,Oakland Raiders,52359,
+1,Philadelphia Eagles,69696,
+1,Pittsburgh Steelers,,65878
+1,San Francisco 49ers,,55976
+1,Seattle Seahawks,68710,
+1,Tampa Bay Buccaneers,55976,
+1,Tennessee Titans,,67431
+1,Washington Redskins,,69696
+2,Arizona Cardinals,,70126
+2,Atlanta Falcons,72443,
+2,Baltimore Ravens,70126,
+2,Buffalo Bills,,74569
+2,Carolina Panthers,71101,
+2,Chicago Bears,,76885
+2,Cincinnati Bengals,50666,
+2,Cleveland Browns,,78523
+2,Dallas Cowboys,,75128
+2,Denver Broncos,76885,
+2,Detroit Lions,60158,
+2,Green Bay Packers,78416,
+2,Houston Texans,71651,
+2,Indianapolis Colts,,62849
+2,Jacksonville Jaguars,,71651
+2,Kansas City Chiefs,,52748
+2,Los Angeles Chargers,,60158
+2,Los Angeles Rams,71460,
+2,Miami Dolphins,65513,
+2,Minnesota Vikings,,78416
+2,New England Patriots,,65513
+2,New Orleans Saints,,71460
+2,New York Giants,74569,
+2,New York Jets,78523,
+2,Oakland Raiders,52748,
+2,Philadelphia Eagles,,72443
+2,Pittsburgh Steelers,65063,
+2,San Francisco 49ers,,50666
+2,Seattle Seahawks,,65063
+2,Tampa Bay Buccaneers,,71101
+2,Tennessee Titans,62849,
+2,Washington Redskins,75128,
+3,Arizona Cardinals,60104,
+3,Atlanta Falcons,,60295
+3,Baltimore Ravens,,73390
+3,Buffalo Bills,69448,
+3,Carolina Panthers,,60104
+3,Chicago Bears,,67327
+3,Cincinnati Bengals,,69448
+3,Cleveland Browns,67431,
+3,Dallas Cowboys,90127,
+3,Denver Broncos,,78078
+3,Detroit Lions,,69796
+3,Green Bay Packers,78078,
+3,Houston Texans,,25349
+3,Indianapolis Colts,60295,
+3,Jacksonville Jaguars,58613,
+3,Kansas City Chiefs,73390,
+3,Los Angeles Chargers,25349,
+3,Los Angeles Rams,,67431
+3,Miami Dolphins,,90127
+3,Minnesota Vikings,66738,
+3,New England Patriots,65878,
+3,New Orleans Saints,,69005
+3,New York Giants,,55070
+3,New York Jets,,65878
+3,Oakland Raiders,,66738
+3,Philadelphia Eagles,69796,
+3,Pittsburgh Steelers,,69439
+3,San Francisco 49ers,69439,
+3,Seattle Seahawks,69005,
+3,Tampa Bay Buccaneers,55070,
+3,Tennessee Titans,,58613
+3,Washington Redskins,67327,
+4,Arizona Cardinals,60500,
+4,Atlanta Falcons,72108,
+4,Baltimore Ravens,70686,
+4,Buffalo Bills,70317,
+4,Carolina Panthers,,71699
+4,Chicago Bears,62131,
+4,Cincinnati Bengals,,57959
+4,Cleveland Browns,,70686
+4,Dallas Cowboys,,73086
+4,Denver Broncos,76219,
+4,Detroit Lions,65188,
+4,Green Bay Packers,77509,
+4,Houston Texans,71699,
+4,Indianapolis Colts,62259,
+4,Jacksonville Jaguars,,76219
+4,Kansas City Chiefs,,65188
+4,Los Angeles Chargers,,64278
+4,Los Angeles Rams,68117,
+4,Miami Dolphins,64278,
+4,Minnesota Vikings,,62131
+4,New England Patriots,,70317
+4,New Orleans Saints,73086,
+4,New York Giants,74149,
+4,New York Jets,Bye,
+4,Oakland Raiders,,62259
+4,Philadelphia Eagles,,77509
+4,Pittsburgh Steelers,57959,
+4,San Francisco 49ers,Bye,
+4,Seattle Seahawks,,60500
+4,Tampa Bay Buccaneers,,68117
+4,Tennessee Titans,,72108
+4,Washington Redskins,,74149
+5,Arizona Cardinals,,46012
+5,Atlanta Falcons,,71787
+5,Baltimore Ravens,,64037
+5,Buffalo Bills,,66910
+5,Carolina Panthers,72762,
+5,Chicago Bears,,60463
+5,Cincinnati Bengals,46012,
+5,Cleveland Browns,,70585
+5,Dallas Cowboys,93024,
+5,Denver Broncos,,25357
+5,Detroit Lions,Bye,
+5,Green Bay Packers,,93024
+5,Houston Texans,71787,
+5,Indianapolis Colts,,73352
+5,Jacksonville Jaguars,,72762
+5,Kansas City Chiefs,73352,
+5,Los Angeles Chargers,25357,
+5,Los Angeles Rams,,68988
+5,Miami Dolphins,Bye,
+5,Minnesota Vikings,,75041
+5,New England Patriots,,76483
+5,New Orleans Saints,73029,
+5,New York Giants,75041,
+5,New York Jets,,69796
+5,Oakland Raiders,60463,
+5,Philadelphia Eagles,69796,
+5,Pittsburgh Steelers,64037,
+5,San Francisco 49ers,70585,
+5,Seattle Seahawks,68988,
+5,Tampa Bay Buccaneers,,73029
+5,Tennessee Titans,66910,
+5,Washington Redskins,76483,
+6,Arizona Cardinals,60140,
+6,Atlanta Falcons,,60140
+6,Baltimore Ravens,70051,
+6,Buffalo Bills,Bye,
+6,Carolina Panthers,,60087
+6,Chicago Bears,Bye,
+6,Cincinnati Bengals,,70051
+6,Cleveland Browns,67431,
+6,Dallas Cowboys,,78523
+6,Denver Broncos,75815,
+6,Detroit Lions,,76947
+6,Green Bay Packers,76947,
+6,Houston Texans,,73323
+6,Indianapolis Colts,Bye,
+6,Jacksonville Jaguars,64341,
+6,Kansas City Chiefs,73323,
+6,Los Angeles Chargers,25425,
+6,Los Angeles Rams,75695,
+6,Miami Dolphins,59808,
+6,Minnesota Vikings,66837,
+6,New England Patriots,65878,
+6,New Orleans Saints,,64341
+6,New York Giants,,65878
+6,New York Jets,78523,
+6,Oakland Raiders,Bye,
+6,Philadelphia Eagles,,66837
+6,Pittsburgh Steelers,,25425
+6,San Francisco 49ers,,75695
+6,Seattle Seahawks,,67431
+6,Tampa Bay Buccaneers,60087,
+6,Tennessee Titans,,75815
+6,Washington Redskins,,59808
+7,Arizona Cardinals,,73577
+7,Atlanta Falcons,71856,
+7,Baltimore Ravens,,69012
+7,Buffalo Bills,68340,
+7,Carolina Panthers,Bye,
+7,Chicago Bears,62306,
+7,Cincinnati Bengals,42784,
+7,Cleveland Browns,Bye,
+7,Dallas Cowboys,91213,
+7,Denver Broncos,76748,
+7,Detroit Lions,60314,
+7,Green Bay Packers,78160,
+7,Houston Texans,,59977
+7,Indianapolis Colts,59977,
+7,Jacksonville Jaguars,,42784
+7,Kansas City Chiefs,,76748
+7,Los Angeles Chargers,,62431
+7,Los Angeles Rams,,71856
+7,Miami Dolphins,,68340
+7,Minnesota Vikings,,60314
+7,New England Patriots,,78523
+7,New Orleans Saints,,62306
+7,New York Giants,73577,
+7,New York Jets,78523,
+7,Oakland Raiders,,78160
+7,Philadelphia Eagles,,91213
+7,Pittsburgh Steelers,Bye,
+7,San Francisco 49ers,,61459
+7,Seattle Seahawks,69012,
+7,Tampa Bay Buccaneers,Bye,
+7,Tennessee Titans,62431,
+7,Washington Redskins,61459,
+8,Arizona Cardinals,,73064
+8,Atlanta Falcons,71483,
+8,Baltimore Ravens,Bye,
+8,Buffalo Bills,69435,
+8,Carolina Panthers,,69083
+8,Chicago Bears,61632,
+8,Cincinnati Bengals,,83720
+8,Cleveland Browns,,65878
+8,Dallas Cowboys,Bye,
+8,Denver Broncos,,61653
+8,Detroit Lions,58509,
+8,Green Bay Packers,,73558
+8,Houston Texans,71893,
+8,Indianapolis Colts,61653,
+8,Jacksonville Jaguars,57833,
+8,Kansas City Chiefs,73558,
+8,Los Angeles Chargers,,61632
+8,Los Angeles Rams,83720,
+8,Miami Dolphins,,59244
+8,Minnesota Vikings,66776,
+8,New England Patriots,65878,
+8,New Orleans Saints,73064,
+8,New York Giants,,58509
+8,New York Jets,,57833
+8,Oakland Raiders,,71893
+8,Philadelphia Eagles,,69435
+8,Pittsburgh Steelers,59244,
+8,San Francisco 49ers,69083,
+8,Seattle Seahawks,,71483
+8,Tampa Bay Buccaneers,,62073
+8,Tennessee Titans,62073,
+8,Washington Redskins,,66776
+9,Arizona Cardinals,60986,
+9,Atlanta Falcons,Bye,
+9,Baltimore Ravens,71157,
+9,Buffalo Bills,67685,
+9,Carolina Panthers,72540,
+9,Chicago Bears,,69796
+9,Cincinnati Bengals,Bye,
+9,Cleveland Browns,,76743
+9,Dallas Cowboys,,76107
+9,Denver Broncos,76743,
+9,Detroit Lions,,53318
+9,Green Bay Packers,,25435
+9,Houston Texans,,84771
+9,Indianapolis Colts,,61115
+9,Jacksonville Jaguars,84771,
+9,Kansas City Chiefs,73615,
+9,Los Angeles Chargers,25435,
+9,Los Angeles Rams,Bye,
+9,Miami Dolphins,59229,
+9,Minnesota Vikings,,73615
+9,New England Patriots,,71157
+9,New Orleans Saints,Bye,
+9,New York Giants,76107,
+9,New York Jets,,59229
+9,Oakland Raiders,53318,
+9,Philadelphia Eagles,69796,
+9,Pittsburgh Steelers,61115,
+9,San Francisco 49ers,,60986
+9,Seattle Seahawks,68948,
+9,Tampa Bay Buccaneers,,68948
+9,Tennessee Titans,,72540
+9,Washington Redskins,,67685
+10,Arizona Cardinals,,40038
+10,Atlanta Falcons,,73283
+10,Baltimore Ravens,,45918
+10,Buffalo Bills,,67431
+10,Carolina Panthers,,78090
+10,Chicago Bears,61758,
+10,Cincinnati Bengals,45918,
+10,Cleveland Browns,67431,
+10,Dallas Cowboys,91188,
+10,Denver Broncos,Bye,
+10,Detroit Lions,,61758
+10,Green Bay Packers,78090,
+10,Houston Texans,Bye,
+10,Indianapolis Colts,60510,
+10,Jacksonville Jaguars,Bye,
+10,Kansas City Chiefs,,68864
+10,Los Angeles Chargers,,51954
+10,Los Angeles Rams,,63627
+10,Miami Dolphins,,60510
+10,Minnesota Vikings,,91188
+10,New England Patriots,Bye,
+10,New Orleans Saints,73283,
+10,New York Giants,,78523
+10,New York Jets,78523,
+10,Oakland Raiders,51954,
+10,Philadelphia Eagles,Bye,
+10,Pittsburgh Steelers,63627,
+10,San Francisco 49ers,71404,
+10,Seattle Seahawks,,71404
+10,Tampa Bay Buccaneers,40038,
+10,Tennessee Titans,68864,
+10,Washington Redskins,Bye,
+11,Arizona Cardinals,,69419
+11,Atlanta Falcons,,73106
+11,Baltimore Ravens,70731,
+11,Buffalo Bills,,64187
+11,Carolina Panthers,73106,
+11,Chicago Bears,,70758
+11,Cincinnati Bengals,,51921
+11,Cleveland Browns,67431,
+11,Dallas Cowboys,,61801
+11,Denver Broncos,,66883
+11,Detroit Lions,61801,
+11,Green Bay Packers,Bye,
+11,Houston Texans,,70731
+11,Indianapolis Colts,61986,
+11,Jacksonville Jaguars,,61986
+11,Kansas City Chiefs,,76252
+11,Los Angeles Chargers,76252,
+11,Los Angeles Rams,70758,
+11,Miami Dolphins,64187,
+11,Minnesota Vikings,66883,
+11,New England Patriots,,69796
+11,New Orleans Saints,,54333
+11,New York Giants,Bye,
+11,New York Jets,,56426
+11,Oakland Raiders,51921,
+11,Philadelphia Eagles,69796,
+11,Pittsburgh Steelers,,67431
+11,San Francisco 49ers,69419,
+11,Seattle Seahawks,Bye,
+11,Tampa Bay Buccaneers,54333,
+11,Tennessee Titans,Bye,
+11,Washington Redskins,56426,
+12,Arizona Cardinals,Bye,
+12,Atlanta Falcons,71463,
+12,Baltimore Ravens,,72409
+12,Buffalo Bills,67338,
+12,Carolina Panthers,,73068
+12,Chicago Bears,61581,
+12,Cincinnati Bengals,47423,
+12,Cleveland Browns,67431,
+12,Dallas Cowboys,,65878
+12,Denver Broncos,,67338
+12,Detroit Lions,,57754
+12,Green Bay Packers,,71500
+12,Houston Texans,71727,
+12,Indianapolis Colts,,71727
+12,Jacksonville Jaguars,,60926
+12,Kansas City Chiefs,Bye,
+12,Los Angeles Chargers,Bye,
+12,Los Angeles Rams,72409,
+12,Miami Dolphins,,67431
+12,Minnesota Vikings,Bye,
+12,New England Patriots,65878,
+12,New Orleans Saints,73068,
+12,New York Giants,,61581
+12,New York Jets,78523,
+12,Oakland Raiders,,78523
+12,Philadelphia Eagles,69796,
+12,Pittsburgh Steelers,,47423
+12,San Francisco 49ers,71500,
+12,Seattle Seahawks,,69796
+12,Tampa Bay Buccaneers,,71463
+12,Tennessee Titans,60926,
+12,Washington Redskins,57754,
+13,Arizona Cardinals,60944,
+13,Atlanta Falcons,71993,
+13,Baltimore Ravens,71029,
+13,Buffalo Bills,,90445
+13,Carolina Panthers,71504,
+13,Chicago Bears,,65412
+13,Cincinnati Bengals,39804,
+13,Cleveland Browns,,62157
+13,Dallas Cowboys,90445,
+13,Denver Broncos,74638,
+13,Detroit Lions,65412,
+13,Green Bay Packers,,75950
+13,Houston Texans,72025,
+13,Indianapolis Colts,60361,
+13,Jacksonville Jaguars,62633,
+13,Kansas City Chiefs,73548,
+13,Los Angeles Chargers,,74638
+13,Los Angeles Rams,,60944
+13,Miami Dolphins,65545,
+13,Minnesota Vikings,,69080
+13,New England Patriots,,72025
+13,New Orleans Saints,,71993
+13,New York Giants,75950,
+13,New York Jets,,39804
+13,Oakland Raiders,,73548
+13,Philadelphia Eagles,,65545
+13,Pittsburgh Steelers,62157,
+13,San Francisco 49ers,,71029
+13,Seattle Seahawks,69080,
+13,Tampa Bay Buccaneers,,62633
+13,Tennessee Titans,,60361
+13,Washington Redskins,,71504
+14,Arizona Cardinals,63880,
+14,Atlanta Falcons,70592,
+14,Baltimore Ravens,,69134
+14,Buffalo Bills,69134,
+14,Carolina Panthers,,70592
+14,Chicago Bears,61276,
+14,Cincinnati Bengals,,67431
+14,Cleveland Browns,67431,
+14,Dallas Cowboys,,61276
+14,Denver Broncos,,71769
+14,Detroit Lions,,66776
+14,Green Bay Packers,77296,
+14,Houston Texans,71769,
+14,Indianapolis Colts,,50232
+14,Jacksonville Jaguars,57866,
+14,Kansas City Chiefs,,65878
+14,Los Angeles Chargers,,57866
+14,Los Angeles Rams,71501,
+14,Miami Dolphins,,78523
+14,Minnesota Vikings,66776,
+14,New England Patriots,65878,
+14,New Orleans Saints,73038,
+14,New York Giants,,69796
+14,New York Jets,78523,
+14,Oakland Raiders,52760,
+14,Philadelphia Eagles,69796,
+14,Pittsburgh Steelers,,63880
+14,San Francisco 49ers,,73038
+14,Seattle Seahawks,,71501
+14,Tampa Bay Buccaneers,50232,
+14,Tennessee Titans,,52760
+14,Washington Redskins,,77296
+15,Arizona Cardinals,63345,
+15,Atlanta Falcons,,70910
+15,Baltimore Ravens,70545,
+15,Buffalo Bills,,64694
+15,Carolina Panthers,72544,
+15,Chicago Bears,,78266
+15,Cincinnati Bengals,57066,
+15,Cleveland Browns,,63345
+15,Dallas Cowboys,90436,
+15,Denver Broncos,,73257
+15,Detroit Lions,56515,
+15,Green Bay Packers,78266,
+15,Houston Texans,,65265
+15,Indianapolis Colts,,73053
+15,Jacksonville Jaguars,,52788
+15,Kansas City Chiefs,73257,
+15,Los Angeles Chargers,25446,
+15,Los Angeles Rams,,90436
+15,Miami Dolphins,,72894
+15,Minnesota Vikings,,25446
+15,New England Patriots,,57066
+15,New Orleans Saints,73053,
+15,New York Giants,72894,
+15,New York Jets,,70545
+15,Oakland Raiders,52788,
+15,Philadelphia Eagles,,63246
+15,Pittsburgh Steelers,64694,
+15,San Francisco 49ers,70910,
+15,Seattle Seahawks,,72544
+15,Tampa Bay Buccaneers,,56515
+15,Tennessee Titans,65265,
+15,Washington Redskins,63246,
+16,Arizona Cardinals,,69022
+16,Atlanta Falcons,70873,
+16,Baltimore Ravens,,67431
+16,Buffalo Bills,,65878
+16,Carolina Panthers,,61845
+16,Chicago Bears,62213,
+16,Cincinnati Bengals,,60968
+16,Cleveland Browns,67431,
+16,Dallas Cowboys,,69796
+16,Denver Broncos,74115,
+16,Detroit Lions,,74115
+16,Green Bay Packers,,67157
+16,Houston Texans,,49036
+16,Indianapolis Colts,61845,
+16,Jacksonville Jaguars,,70873
+16,Kansas City Chiefs,,62213
+16,Los Angeles Chargers,25380,
+16,Los Angeles Rams,,70103
+16,Miami Dolphins,60968,
+16,Minnesota Vikings,67157,
+16,New England Patriots,65878,
+16,New Orleans Saints,,66756
+16,New York Giants,,66083
+16,New York Jets,78523,
+16,Oakland Raiders,,25380
+16,Philadelphia Eagles,69796,
+16,Pittsburgh Steelers,,78523
+16,San Francisco 49ers,70103,
+16,Seattle Seahawks,69022,
+16,Tampa Bay Buccaneers,49036,
+16,Tennessee Titans,66756,
+16,Washington Redskins,66083,
+17,Arizona Cardinals,,68665
+17,Atlanta Falcons,,50417
+17,Baltimore Ravens,70695,
+17,Buffalo Bills,69016,
+17,Carolina Panthers,72203,
+17,Chicago Bears,,66913
+17,Cincinnati Bengals,47759,
+17,Cleveland Browns,,47759
+17,Dallas Cowboys,90646,
+17,Denver Broncos,76334,
+17,Detroit Lions,62840,
+17,Green Bay Packers,,62840
+17,Houston Texans,71794,
+17,Indianapolis Colts,,58472
+17,Jacksonville Jaguars,58472,
+17,Kansas City Chiefs,73680,
+17,Los Angeles Chargers,,73680
+17,Los Angeles Rams,68665,
+17,Miami Dolphins,,65878
+17,Minnesota Vikings,66913,
+17,New England Patriots,65878,
+17,New Orleans Saints,,72203
+17,New York Giants,75029,
+17,New York Jets,,69016
+17,Oakland Raiders,,76334
+17,Philadelphia Eagles,,75029
+17,Pittsburgh Steelers,,70695
+17,San Francisco 49ers,,69162
+17,Seattle Seahawks,69162,
+17,Tampa Bay Buccaneers,50417,
+17,Tennessee Titans,,71794
+17,Washington Redskins,,90646
