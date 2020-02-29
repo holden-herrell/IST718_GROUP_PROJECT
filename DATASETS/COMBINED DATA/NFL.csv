@@ -1,97 +1,100 @@
-Day,Date,Time,Year,HomeTeam,Attendance
-Sun,September 10,1:00PM,2017,Houston Texans,71710
-Sun,September 10,8:30PM,2017,Dallas Cowboys,93183
-Sun,September 17,8:30PM,2017,Atlanta Falcons,70826
-Sun,October 1,9:30AM,2017,Miami Dolphins,84423
-Sun,October 1,1:00PM,2017,Houston Texans,71804
-Sun,October 1,1:00PM,2017,Dallas Cowboys,91869
-Sun,October 1,1:00PM,2017,Atlanta Falcons,71273
-Sun,October 8,1:00PM,2017,Miami Dolphins,65135
-Sun,October 8,4:25PM,2017,Dallas Cowboys,93329
-Sun,October 8,8:30PM,2017,Houston Texans,71835
-Sun,October 15,1:00PM,2017,Atlanta Falcons,70593
-Sun,October 15,1:00PM,2017,Houston Texans,71815
-Sun,October 22,1:00PM,2017,Miami Dolphins,65025
-Sun,November 5,1:00PM,2017,Houston Texans,71709
-Sun,November 5,4:25PM,2017,Dallas Cowboys,93273
-Sun,November 5,8:30PM,2017,Miami Dolphins,65139
-Sun,November 12,4:25PM,2017,Atlanta Falcons,73761
-Sun,November 19,1:00PM,2017,Houston Texans,71680
-Sun,November 19,1:00PM,2017,Miami Dolphins,65089
-Sun,November 19,8:30PM,2017,Dallas Cowboys,93247
-Thu,November 23,4:30PM,2017,Dallas Cowboys,93012
-Sun,November 26,1:00PM,2017,Atlanta Falcons,71036
-Thu,November 30,8:25PM,2017,Dallas Cowboys,91712
-Sun,December 3,1:00PM,2017,Atlanta Falcons,71185
-Sun,December 3,1:00PM,2017,Miami Dolphins,65092
-Thu,December 7,8:25PM,2017,Atlanta Falcons,72866
-Sun,December 10,1:00PM,2017,Houston Texans,71802
-Mon,December 11,8:30PM,2017,Miami Dolphins,65548
-Sun,December 24,4:25PM,2017,Dallas Cowboys,92150
-Mon,December 25,4:30PM,2017,Houston Texans,71842
-Sun,December 31,4:25PM,2017,Miami Dolphins,65571
-Sun,December 31,4:25PM,2017,Atlanta Falcons,74141
-Sun,September 9,1:00PM,2018,Miami Dolphins,65184
-Sun,September 16,1:00PM,2018,Atlanta Falcons,72528
-Sun,September 16,8:20PM,2018,Dallas Cowboys,90512
-Sun,September 23,1:00PM,2018,Houston Texans,71838
-Sun,September 23,1:00PM,2018,Atlanta Falcons,74457
-Sun,September 23,1:00PM,2018,Miami Dolphins,65667
-Sun,September 30,1:00PM,2018,Dallas Cowboys,90155
-Sun,September 30,1:00PM,2018,Atlanta Falcons,71985
-Sun,October 7,8:20PM,2018,Houston Texans,72008
-Sun,October 14,1:00PM,2018,Miami Dolphins,65791
-Sun,October 14,1:00PM,2018,Houston Texans,71638
-Sun,October 14,1:00PM,2018,Atlanta Falcons,72665
-Sun,October 14,4:25PM,2018,Dallas Cowboys,90767
-Sun,October 21,1:00PM,2018,Miami Dolphins,65265
-Mon,October 22,8:15PM,2018,Atlanta Falcons,72756
-Thu,October 25,8:20PM,2018,Houston Texans,71726
-Sun,November 4,1:00PM,2018,Miami Dolphins,65533
-Mon,November 5,8:15PM,2018,Dallas Cowboys,90466
-Sun,November 18,1:00PM,2018,Atlanta Falcons,74447
-Thu,November 22,4:30PM,2018,Dallas Cowboys,92076
-Mon,November 26,8:15PM,2018,Houston Texans,71826
-Thu,November 29,8:20PM,2018,Dallas Cowboys,93004
-Sun,December 2,1:00PM,2018,Houston Texans,71741
-Sun,December 2,1:00PM,2018,Atlanta Falcons,72262
-Sun,December 2,1:00PM,2018,Miami Dolphins,65155
-Sun,December 9,1:00PM,2018,Miami Dolphins,66087
-Sun,December 9,1:00PM,2018,Houston Texans,71814
-Sun,December 9,4:25PM,2018,Dallas Cowboys,93127
-Sun,December 16,1:00PM,2018,Atlanta Falcons,72084
-Sun,December 23,1:00PM,2018,Dallas Cowboys,92851
-Sun,December 23,1:00PM,2018,Miami Dolphins,65798
-Sun,December 30,1:00PM,2018,Houston Texans,71848
-Sun,September 8,1:00PM,2019,Miami Dolphins,65012
-Sun,September 8,4:25PM,2019,Dallas Cowboys,90353
-Sun,September 15,1:00PM,2019,Miami Dolphins,65513
-Sun,September 15,1:00PM,2019,Houston Texans,71651
-Sun,September 15,8:20PM,2019,Atlanta Falcons,72443
-Sun,September 22,1:00PM,2019,Dallas Cowboys,90127
-Sun,September 29,1:00PM,2019,Houston Texans,71699
-Sun,September 29,1:00PM,2019,Miami Dolphins,64278
-Sun,September 29,1:00PM,2019,Atlanta Falcons,72108
-Sun,October 6,1:00PM,2019,Houston Texans,71787
-Sun,October 6,4:25PM,2019,Dallas Cowboys,93024
-Sun,October 13,1:00PM,2019,Miami Dolphins,59808
-Sun,October 20,1:00PM,2019,Atlanta Falcons,71856
-Sun,October 20,8:20PM,2019,Dallas Cowboys,91213
-Sun,October 27,1:00PM,2019,Atlanta Falcons,71483
-Sun,October 27,4:25PM,2019,Houston Texans,71893
-Sun,November 3,1:00PM,2019,Miami Dolphins,59229
-Sun,November 10,8:20PM,2019,Dallas Cowboys,91188
-Sun,November 17,1:00PM,2019,Miami Dolphins,64187
-Thu,November 21,8:20PM,2019,Houston Texans,71727
-Sun,November 24,1:00PM,2019,Atlanta Falcons,71463
-Thu,November 28,4:30PM,2019,Dallas Cowboys,90445
-Thu,November 28,8:20PM,2019,Atlanta Falcons,71993
-Sun,December 1,1:00PM,2019,Miami Dolphins,65545
-Sun,December 1,8:20PM,2019,Houston Texans,72025
-Sun,December 8,1:00PM,2019,Houston Texans,71769
-Sun,December 8,1:00PM,2019,Atlanta Falcons,70592
-Sun,December 15,4:25PM,2019,Dallas Cowboys,90436
-Sun,December 22,1:00PM,2019,Atlanta Falcons,70873
-Sun,December 22,1:00PM,2019,Miami Dolphins,60968
-Sun,December 29,4:25PM,2019,Houston Texans,71794
-Sun,December 29,4:25PM,2019,Dallas Cowboys,90646
+Date,Time,Year,HomeTeam
+"Thursday, September 10, 2020",1:00PM,2017,Houston Texans
+"Thursday, September 10, 2020",8:30PM,2017,Dallas Cowboys
+"Thursday, September 17, 2020",8:30PM,2017,Atlanta Falcons
+"Thursday, October 1, 2020",9:30AM,2017,Miami Dolphins
+"Thursday, October 1, 2020",1:00PM,2017,Houston Texans
+"Thursday, October 1, 2020",1:00PM,2017,Dallas Cowboys
+"Thursday, October 1, 2020",1:00PM,2017,Atlanta Falcons
+"Thursday, October 8, 2020",1:00PM,2017,Miami Dolphins
+"Thursday, October 8, 2020",4:25PM,2017,Dallas Cowboys
+"Thursday, October 8, 2020",8:30PM,2017,Houston Texans
+"Thursday, October 15, 2020",1:00PM,2017,Atlanta Falcons
+"Thursday, October 15, 2020",1:00PM,2017,Houston Texans
+"Thursday, October 22, 2020",1:00PM,2017,Miami Dolphins
+"Thursday, November 5, 2020",1:00PM,2017,Houston Texans
+"Thursday, November 5, 2020",4:25PM,2017,Dallas Cowboys
+"Thursday, November 5, 2020",8:30PM,2017,Miami Dolphins
+"Thursday, November 12, 2020",4:25PM,2017,Atlanta Falcons
+"Thursday, November 19, 2020",1:00PM,2017,Houston Texans
+"Thursday, November 19, 2020",1:00PM,2017,Miami Dolphins
+"Thursday, November 19, 2020",8:30PM,2017,Dallas Cowboys
+"Monday, November 23, 2020",4:30PM,2017,Dallas Cowboys
+"Thursday, November 26, 2020",1:00PM,2017,Atlanta Falcons
+"Monday, November 30, 2020",8:25PM,2017,Dallas Cowboys
+"Thursday, December 3, 2020",1:00PM,2017,Atlanta Falcons
+"Thursday, December 3, 2020",1:00PM,2017,Miami Dolphins
+"Monday, December 7, 2020",8:25PM,2017,Atlanta Falcons
+"Thursday, December 10, 2020",1:00PM,2017,Houston Texans
+"Friday, December 11, 2020",8:30PM,2017,Miami Dolphins
+"Thursday, December 24, 2020",4:25PM,2017,Dallas Cowboys
+"Friday, December 25, 2020",4:30PM,2017,Houston Texans
+"Thursday, December 31, 2020",4:25PM,2017,Miami Dolphins
+"Thursday, December 31, 2020",4:25PM,2017,Atlanta Falcons
+"Wednesday, September 9, 2020",1:00PM,2018,Miami Dolphins
+"Wednesday, September 16, 2020",1:00PM,2018,Atlanta Falcons
+"Wednesday, September 16, 2020",8:20PM,2018,Dallas Cowboys
+"Wednesday, September 23, 2020",1:00PM,2018,Houston Texans
+"Wednesday, September 23, 2020",1:00PM,2018,Atlanta Falcons
+"Wednesday, September 23, 2020",1:00PM,2018,Miami Dolphins
+"Wednesday, September 30, 2020",1:00PM,2018,Dallas Cowboys
+"Wednesday, September 30, 2020",1:00PM,2018,Atlanta Falcons
+"Wednesday, October 7, 2020",8:20PM,2018,Houston Texans
+"Wednesday, October 14, 2020",1:00PM,2018,Miami Dolphins
+"Wednesday, October 14, 2020",1:00PM,2018,Houston Texans
+"Wednesday, October 14, 2020",1:00PM,2018,Atlanta Falcons
+"Wednesday, October 14, 2020",4:25PM,2018,Dallas Cowboys
+"Wednesday, October 21, 2020",1:00PM,2018,Miami Dolphins
+"Thursday, October 22, 2020",8:15PM,2018,Atlanta Falcons
+"Sunday, October 25, 2020",8:20PM,2018,Houston Texans
+"Wednesday, November 4, 2020",1:00PM,2018,Miami Dolphins
+"Thursday, November 5, 2020",8:15PM,2018,Dallas Cowboys
+"Wednesday, November 18, 2020",1:00PM,2018,Atlanta Falcons
+"Sunday, November 22, 2020",4:30PM,2018,Dallas Cowboys
+"Thursday, November 26, 2020",8:15PM,2018,Houston Texans
+"Sunday, November 29, 2020",8:20PM,2018,Dallas Cowboys
+"Wednesday, December 2, 2020",1:00PM,2018,Houston Texans
+"Wednesday, December 2, 2020",1:00PM,2018,Atlanta Falcons
+"Wednesday, December 2, 2020",1:00PM,2018,Miami Dolphins
+"Wednesday, December 9, 2020",1:00PM,2018,Miami Dolphins
+"Wednesday, December 9, 2020",1:00PM,2018,Houston Texans
+"Wednesday, December 9, 2020",4:25PM,2018,Dallas Cowboys
+"Wednesday, December 16, 2020",1:00PM,2018,Atlanta Falcons
+"Wednesday, December 23, 2020",1:00PM,2018,Dallas Cowboys
+"Wednesday, December 23, 2020",1:00PM,2018,Miami Dolphins
+"Wednesday, December 30, 2020",1:00PM,2018,Houston Texans
+"Sunday, January 5, 2020",4:35PM,2019,Houston Texans
+"Sunday, January 5, 2020",8:15PM,2019,Dallas Cowboys
+"Tuesday, September 8, 2020",1:00PM,2019,Miami Dolphins
+"Tuesday, September 8, 2020",4:25PM,2019,Dallas Cowboys
+"Tuesday, September 15, 2020",1:00PM,2019,Miami Dolphins
+"Tuesday, September 15, 2020",1:00PM,2019,Houston Texans
+"Tuesday, September 15, 2020",8:20PM,2019,Atlanta Falcons
+"Tuesday, September 22, 2020",1:00PM,2019,Dallas Cowboys
+"Tuesday, September 29, 2020",1:00PM,2019,Houston Texans
+"Tuesday, September 29, 2020",1:00PM,2019,Miami Dolphins
+"Tuesday, September 29, 2020",1:00PM,2019,Atlanta Falcons
+"Tuesday, October 6, 2020",1:00PM,2019,Houston Texans
+"Tuesday, October 6, 2020",4:25PM,2019,Dallas Cowboys
+"Tuesday, October 13, 2020",1:00PM,2019,Miami Dolphins
+"Tuesday, October 20, 2020",1:00PM,2019,Atlanta Falcons
+"Tuesday, October 20, 2020",8:20PM,2019,Dallas Cowboys
+"Tuesday, October 27, 2020",1:00PM,2019,Atlanta Falcons
+"Tuesday, October 27, 2020",4:25PM,2019,Houston Texans
+"Tuesday, November 3, 2020",1:00PM,2019,Miami Dolphins
+"Tuesday, November 10, 2020",8:20PM,2019,Dallas Cowboys
+"Tuesday, November 17, 2020",1:00PM,2019,Miami Dolphins
+"Saturday, November 21, 2020",8:20PM,2019,Houston Texans
+"Tuesday, November 24, 2020",1:00PM,2019,Atlanta Falcons
+"Saturday, November 28, 2020",4:30PM,2019,Dallas Cowboys
+"Saturday, November 28, 2020",8:20PM,2019,Atlanta Falcons
+"Tuesday, December 1, 2020",1:00PM,2019,Miami Dolphins
+"Tuesday, December 1, 2020",8:20PM,2019,Houston Texans
+"Tuesday, December 8, 2020",1:00PM,2019,Houston Texans
+"Tuesday, December 8, 2020",1:00PM,2019,Atlanta Falcons
+"Tuesday, December 15, 2020",4:25PM,2019,Dallas Cowboys
+"Tuesday, December 22, 2020",1:00PM,2019,Atlanta Falcons
+"Tuesday, December 22, 2020",1:00PM,2019,Miami Dolphins
+"Tuesday, December 29, 2020",4:25PM,2019,Houston Texans
+"Tuesday, December 29, 2020",4:25PM,2019,Dallas Cowboys
+"Saturday, January 4, 2020",4:35PM,2020,Houston Texans
